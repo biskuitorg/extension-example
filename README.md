@@ -1,6 +1,6 @@
 # example-todo
 
-Example extension for the [Biskuit CMS](https://github.com/biskuit/biskuit). This code is the completed example of the tutorial series on the [Biskuit Blog](https://biskuit.com/blog).
+Example extension for the [Biskuit CMS](https://github.com/biskuitorg/biskuit). This code is the completed example of the tutorial series on the [Biskuit Blog](https://biskuit.org/blog).
 
 This extension is meant for demonstration purposes. It is provided as is and will not be extended with further features. Feel free to use and extend the code.
 
