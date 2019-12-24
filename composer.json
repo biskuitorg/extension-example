@@ -1,0 +1,6 @@
+{
+  "name": "biskuit/todo",
+  "version": "0.1",
+  "type": "biskuit-extension",
+  "title": "ToDo management"
+}
